@@ -1,0 +1,47 @@
+PODS:
+  - Alamofire (5.4.1)
+  - GoogleMaps (5.0.0):
+    - GoogleMaps/Maps (= 5.0.0)
+  - GoogleMaps/Base (5.0.0)
+  - GoogleMaps/Maps (5.0.0):
+    - GoogleMaps/Base
+  - GooglePlaces (5.0.0)
+  - Moya (14.0.0):
+    - Moya/Core (= 14.0.0)
+  - Moya/Core (14.0.0):
+    - Alamofire (~> 5.0)
+  - OCMock (3.8.1)
+  - ReactiveCocoa (11.2.1):
+    - ReactiveSwift (~> 6.6)
+  - ReactiveSwift (6.6.0)
+
+DEPENDENCIES:
+  - GoogleMaps
+  - GooglePlaces
+  - Moya
+  - OCMock
+  - ReactiveCocoa
+  - ReactiveSwift
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - GoogleMaps
+    - GooglePlaces
+    - Moya
+    - OCMock
+    - ReactiveCocoa
+    - ReactiveSwift
+
+SPEC CHECKSUMS:
+  Alamofire: 2291f7d21ca607c491dd17642e5d40fdcda0e65c
+  GoogleMaps: 600e5e69bdf7f4ed7cac4d6aa96c7ec08a5aa254
+  GooglePlaces: 5d87ca13ed98b7a937e0d8bc7026f718c7263271
+  Moya: 5b45dacb75adb009f97fde91c204c1e565d31916
+  OCMock: 29f6e52085b4e7d9b075cbf03ed7c3112f82f934
+  ReactiveCocoa: 194289e7069037d40c59cb4ae9230f4b1ec05fa8
+  ReactiveSwift: be9407e2aaf8a11e53a5229255693cffd9a63ccf
+
+PODFILE CHECKSUM: c408ff1167116b3f7ab41d59b03bcb4a18694b14
+
+COCOAPODS: 1.10.0
